@@ -27,3 +27,18 @@
    <input type="radio" name="sex"  value="Женский" checked>Женский</label>
    
 ```
+## Experience:
+* Work expirience:
+    * Computer service
+    * Servers service
+    * Design and implementation of LAN
+    * Information security
+    * Work with users
+    
+## Education
+  * Military Academy of the Republic of Belarus (2012-2017).          Faculty: Communication and Automated Control Systems.
+  * IBA Institution (November 2018 - October 2019).                   Course: CCNA Routing&Switching
+  * The Rolling Scopes School (February 2020 - present).              Course: Javascript/Front-end
+
+## English level
+* Pre-Intermediate (A2)
